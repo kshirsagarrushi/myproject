@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Rushikesh and Pankaj
+          Learn React with Rushikesh ,Pankaj, Om and Amit
         </a>
       </header>
     </div>
